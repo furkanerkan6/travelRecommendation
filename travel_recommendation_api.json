@@ -26,7 +26,7 @@
     }
   ],
   "temples": [
-    {"id": 1, "name": "Angkor Wat, Cambodia", "imageUrl": "https://images.unsplash.com/photo-1600520611035-84157ad4084d?w=800", "description": "A UNESCO World Heritage site and the largest religious monument in the world."},
+    {"id": 1, "name": "Angkor Wat, Cambodia", "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Angkor_Wat.jpg?width=800", "description": "A UNESCO World Heritage site and the largest religious monument in the world."},
     {"id": 2, "name": "Taj Mahal, India", "imageUrl": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800", "description": "An iconic symbol of love and a masterpiece of Mughal architecture."}
   ],
   "beaches": [
